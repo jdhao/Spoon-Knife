@@ -10,3 +10,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 Here I will change the readme on branch 'readme_change'. Will this change appear on master branch?
+
+Now, we continue to change this readme file, commit it.
